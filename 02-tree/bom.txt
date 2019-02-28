@@ -1,0 +1,11 @@
+level	PN	ver	description	manufactry	mPN
+1	part_0	A0	Thi is part A	A shop	A-PART
+1	part_a	A0	Thi is part A	A shop	A-PART
+				                    B shop	B-PART
+1	part_b	B0	Thi is part B	C shop	C-PART
+				                    D shop	D-PART
+2	part_c	B0	Thi is part C	A shop	A-PART
+3	part_d	C0	Thi is part D	A shop	A-PART
+2	part_e	B0	Thi is part E	B shop	B-PART
+2	part_f	B0	Thi is part F	B shop	B-PART
+1	part_g	D0	Thi is part G	A shop	A-PART
